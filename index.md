@@ -6,7 +6,7 @@
    </head>
    <body>
       
-     <a href="[https://beian.miit.gov.cn/](www.baidu.com " target="_blank">" 埃尔路德官网www.aierlude.com"</a>
+     <a href="https://flowus.cn/aierlude/share/c3cdaab3-cc41-44b7-a23c-c3afe6875380?code=EHYUZ7 " target="_blank">" 埃尔路德官网www.aierlude.com"</a>
      <button onclick="startScreenShare()">开始共享</button>
   <video id="screen" autoplay></video>
   <script>
