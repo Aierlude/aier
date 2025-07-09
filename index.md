@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
    <head>
        <title>"埃尔路德"</title>
