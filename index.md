@@ -54,7 +54,7 @@
             border: none;
             /* ========== 你要改的第2个参数：向上偏移量 ========== */
             /* 数值越大，页面向上移的越多，裁掉的顶部内容越多 */
-            transform: translateY(-120px); 
+            transform: translateY(-60px); 
         }
 
         /* 手机端自动适配 */
